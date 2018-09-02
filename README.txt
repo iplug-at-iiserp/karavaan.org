@@ -1,4 +1,4 @@
-Karavaan 2017 website
+Karavaan website. See www.karavaan.org
 
 A fun little one-pager with modal-ized (is that a word?) 'pages'
 and a cool depth effect (click on a menu item to see what I mean).
